@@ -1,0 +1,51 @@
+
+@media (min-width: 768px) and (max-width: 960px) {
+    .dish-info {
+        margin: 0px 30px;
+    }
+    .about-info p {
+        font-size: 15px;
+        margin: 10px 0px 15px 0px;
+    }
+}
+
+@media (max-width: 480px) {
+    .navbar{
+        background-color: #111517;
+    }
+    .navbar-wrapper {
+        padding: 20px 0px 0px 0px;
+    }
+    .about-img img {
+        width: 90%;
+        margin-top: 20px;
+    }
+    .hero-content h1 {
+        font-size: 50px;
+    }
+    .hero-content p {
+        font-size: 22px;
+    }
+    .isotope-filter {
+        padding: 4px;
+    }
+    .isotope-filter button {
+        padding: 3px 13px;
+    }
+    .yellow-btn-home {
+        padding: 12px 43px;
+    }
+    .dish {
+        text-align: center;
+    }
+    .dish-info h3 {
+        margin-top: 10px;
+    }
+    .dish-info h3:after {
+        width: 300px;
+        margin: 10px auto;
+    }
+    .contact-info {
+        margin-top: 20px;
+    }
+}
